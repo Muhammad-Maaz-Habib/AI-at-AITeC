@@ -14,7 +14,7 @@ This project demonstrates a simple object tracking system using OpenCV's `Tracke
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/object-tracking.git
+    git clone https://github.com/Muhammad-Maaz-Habib/Tracker-using-OPEN-CV.git
     ```
 2. Navigate to the project directory:
     ```bash
